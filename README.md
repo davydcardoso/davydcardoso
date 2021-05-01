@@ -32,14 +32,12 @@
 
 <br>
 
-Apaixonado por tecnologia, cursando Analise e Desenvolvimento de Sistemas, trabalhando como Engenheiro de Software na Sonik Tecnologia :technologist:
+<ul>
+  <li>Apaixonado por tecnologia.</li>
+  <li>Cursando Analise e Desenvolvimento de Sistemas.</li>
+  <li>Engenheiro de Software na Sonik Tecnologia :technologist:</li>
+</ul>
 
 
 
-<h4 align="left">
-  <a href="#" >
-    
-  </a>
-</h4>
-<br>
-<br>
+
