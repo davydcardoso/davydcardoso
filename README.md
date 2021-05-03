@@ -20,7 +20,7 @@
   </a>
   <br>
   <br>
-  <a href="#">
+  <a>
     <img align="center" alt="react-js" width="40" heigth="4" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-heigth:100%"></img>
   <img align="center" alt="nodejs" width="40" heigth="4" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-heigth:100%"></img>
   <img align="center" alt="javascript" width="40" heigth="4" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-heigth:100%"></img>
