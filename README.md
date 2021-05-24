@@ -34,5 +34,5 @@
   <li>Apaixonado por tecnologia.</li>
   <li>Cursando Analise e Desenvolvimento de Sistemas.</li>
   <li>Engenheiro de Software na Sonik Tecnologia :technologist:</li>
-  <li>Founder and CTO Saturn Technology :technologist:</li>
+  <li>Founder and CTO Saturn Technology :rocket:</li>
 </ul>
