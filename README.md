@@ -30,8 +30,8 @@
 <br>
 
 <ul>
-  <li>Apaixonado por tecnologia.</li>
-  <li>Cursando Analise e Desenvolvimento de Sistemas.</li>
-  <li>Programador na Sonik Tecnologia :technologist:</li>
-  <li>Founder and CTO Saturn Technology :rocket:</li>
+  <li> Passionate about technology. </li>
+  <li> Studying Systems Analysis and Development. </li>
+  <li> Programmer at Sonik Technology :technologist: </li>
+  <li> Founder and CTO Saturn Technology :rocket: </li>
 </ul>
