@@ -33,5 +33,5 @@
   <li> Passionate about technology. </li>
   <li> Studying Systems Analysis and Development. </li>
   <li> Programmer at Sonik Technology :technologist: </li>
-  <li> Founder and CTO Saturn Technology :rocket: </li>
+  <li> Founder Saturn :rocket: </li>
 </ul>
