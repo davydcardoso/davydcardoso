@@ -16,7 +16,7 @@
 
 <h4 align="center">
   <a href="#">
-    Soft Skills
+    My principal Software skills
   </a>
   <br>
   <br>
