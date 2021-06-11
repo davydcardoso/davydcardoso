@@ -8,7 +8,7 @@
 
 <h4 align="center">
   <a href="#">
-    Software Engineer | NodeJS :heart:
+    Software Engineer | JavaScript :heart:
   </a>
 </h4>
 
