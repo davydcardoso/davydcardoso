@@ -29,9 +29,11 @@
 
 <br>
 
-<p>
+<p style="text-align: center;" >
   A passionate Full Stack software developer 🚀 experienced in creating web and mobile apps with JavaScript / Reactjs / Nodejs / React Native and some other interesting libraries and frameworks.
 </p>
+
+<br>
 
 <ul>
   <li> Passionate about technology. </li>
