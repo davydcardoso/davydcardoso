@@ -39,5 +39,5 @@
   <li> Passionate about technology. </li>
   <li> Studying Systems Analysis and Development. </li>
   <li> Programmer at Sonik Technology :technologist: </li>
-  <li> Founder Saturn :rocket: </li>
+  <li> Founder Saturn Payments :rocket: </li>
 </ul>
