@@ -30,7 +30,7 @@
 <br>
 
 <p align="center" >
-  Full Stack Software Developer 🚀 with experience in creating web and mobile apps with JavaScript / Reactjs / Nodejs / React Native and some other interesting libraries and frameworks.
+  Backend Software Developer 🚀 with experience in creating web and mobile apps with JavaScript / Reactjs / Nodejs / React Native and some other interesting libraries and frameworks.
 </p>
 
 <br>
