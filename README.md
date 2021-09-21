@@ -12,7 +12,7 @@ object Davyd {
  val name = "Davyd Kewen J. Cardoso"
  val acknowledgements = "BACKEND DEVELOPER"
  
- val languages = listOf("Node.Js", "TypeScript", "JavaScript", "React Native", "React") 
+ val technologies = listOf("Node.Js", "TypeScript", "JavaScript", "React Native", "React") 
 
 }
 ```
