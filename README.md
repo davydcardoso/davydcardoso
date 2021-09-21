@@ -11,7 +11,7 @@ Backend Software Developer 🚀 with experience in creating web and mobile apps 
 object Davyd {
  val name = "Davyd Kewen J. Cardoso"
  val acknowledgements = "BACKEND DEVELOPER"
- 
+ val strikingPhrase = "Never Stop Learning"
  val technologies = listOf("Node.Js", "TypeScript", "JavaScript", "React Native", "React") 
 
 }
