@@ -1,43 +1,70 @@
 
-<h1 align="center">
-  <a href="#">
-    Hi, I am Davyd Kewen👋
-  </a>
-</h1>
+### Hi, I am Davyd Kewen👋
+
+Backend Software Developer 🚀 with experience in creating web and mobile apps with JavaScript / Reactjs / Nodejs / React Native and some other interesting libraries and frameworks.
+
+## <img width="45" alt="about" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"> More about me
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```kotlin
+object Davyd {
+ val name = "Davyd Kewen J. Cardoso"
+ val acknowledgements = "BACKEND DEVELOPER"
+ 
+ val languages = listOf("Node.Js", "TypeScript", "JavaScript", "React Native", "React") 
+
+}
+```
+
+## **Languages and Tools:**  
+
+<code>
+	<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+<code>
+	<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
+</code>
+<code>
+	<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+</code>
+<code>
+	<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+</code>
+<code>
+	<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+</code>
+<code>
+	<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+</code>
+<code>
+	<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+</code>
+<code>
+	<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+</code>
+<code>
+	<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+</code>
 
 
-<h4 align="center">
-  <a href="#">
-    Developer Backend | JavaScript :heart:
-  </a>
-</h4>
+## **GitHub Statistics**
 
-<hr>
+<a href="https://github.com/davydcardoso">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davydcardoso&theme=dracula&hide_langs_below=1" />
+</a>
 
-<h4 align="center">
-  <a href="#">
-    My principal Software skills
-  </a>
-  <br>
-  <br>
-  <a><img align="center" alt="react-js" width="40" heigth="4" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-heigth:100%"></img></a>
-    <a><img align="center" alt="nodejs" width="40" heigth="4" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-heigth:100%"></img></a>
-    <a><img align="center" alt="javascript" width="40" heigth="4" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-heigth:100%"></img></a>
-    <a><img align="center" alt="typescript" width="40" heigth="4" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="max-heigth:100%"></img></a>
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=davydcardoso&show_icons=true&theme=dracula&line_height=27" alt="Davyd Kewen github stats"/>
+</a>
 
-</h4>
-
+[website]: https://davydkewen.dev/
+[instagram]: https://instagram.com/davydkewen
+[linkedin]: https://www.linkedin.com/in/davyd-kewen-66b0121aa/
 <br>
 
-<p align="center" >
-  Backend Software Developer 🚀 with experience in creating web and mobile apps with JavaScript / Reactjs / Nodejs / React Native and some other interesting libraries and frameworks.
-</p>
+#### Social networks!
 
-<br>
+🏡 [website][website] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
 
-<ul>
-  <li> Passionate about technology. </li>
-  <li> Studying Systems Analysis and Development. </li>
-  <li> Programmer (Backend) :technologist: </li>
-  <li> Founder Saturn Payments :rocket: </li>
-</ul>
