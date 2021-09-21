@@ -9,11 +9,11 @@ Backend Software Developer 🚀 with experience in creating web and mobile apps 
 
 ```TypeScript
 class Davyd {
- public name = "Davyd Kewen J. Cardoso"
- public acknowledgements = "BACKEND DEVELOPER"
- public readonly strikingPhrase = "Never Stop Learning"
- public technologies = ["Node.Js", "TypeScript", "JavaScript", "React Native", "React"]
-
+  public name = "Davyd Kewen J. Cardoso"
+  public acknowledgements = "BACKEND DEVELOPER"
+  public readonly strikingPhrase = "Never Stop Learning"
+  public technologies = ["Node.Js", "TypeScript", "JavaScript", "React Native", "React"]
+  private static company = "SATURN TECHNOLOGY"
 }
 ```
 
