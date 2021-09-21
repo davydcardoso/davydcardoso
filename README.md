@@ -9,10 +9,10 @@ Backend Software Developer 🚀 with experience in creating web and mobile apps 
 
 ```JavaScript
 class Davyd {
- val name = "Davyd Kewen J. Cardoso"
- val acknowledgements = "BACKEND DEVELOPER"
- val strikingPhrase = "Never Stop Learning"
- val technologies = listOf("Node.Js", "TypeScript", "JavaScript", "React Native", "React") 
+ public const name = "Davyd Kewen J. Cardoso"
+ public const acknowledgements = "BACKEND DEVELOPER"
+ public readonly const strikingPhrase = "Never Stop Learning"
+ public const technologies = ["Node.Js", "TypeScript", "JavaScript", "React Native", "React"]
 
 }
 ```
