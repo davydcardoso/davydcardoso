@@ -55,7 +55,7 @@ class Davyd {
 </a>
 
 <a href="https://github.com/davydcardoso">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=davydcardoso&show_icons=true&theme=dracula&line_height=27" alt="Davyd Kewen github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=davydcardoso&show_icons=true&theme=radical&line_height=30" alt="Davyd Kewen github stats"/>
 </a>
 
 [website]: https://davydkewen.dev/
