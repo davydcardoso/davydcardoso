@@ -8,7 +8,7 @@ Backend Software Developer 🚀 with experience in creating web and mobile apps 
 <!-- <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" /> -->
 
 ```TypeScript
-class Davyd {
+class programmer {
   public name = "Davyd Kewen J. Cardoso"
   public acknowledgements = "BACKEND DEVELOPER"
   public readonly strikingPhrase = "Never Stop Learning"
