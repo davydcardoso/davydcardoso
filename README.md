@@ -47,10 +47,6 @@ class programmer {
 	<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </code>
 
-<code>
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-</code>
-
 
 ## **GitHub Statistics**
 
