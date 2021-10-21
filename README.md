@@ -48,7 +48,7 @@ class programmer {
 </code>
 
 <code>
-	<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" />
+	<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg">
 </code>
 
 
