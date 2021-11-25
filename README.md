@@ -54,11 +54,11 @@ class programmer {
 ## **GitHub Statistics**
 
 <a href="https://github.com/davydcardoso">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davydcardoso&theme=radical&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davydcardoso&layout=compact&show_icons=true&theme=radical&line_height=20" />
 </a>
 
 <a href="https://github.com/davydcardoso">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=davydcardoso&show_icons=true&theme=radical&line_height=30" alt="Davyd Kewen github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=davydcardoso&show_icons=true&theme=radical&line_height=20"/>
 </a>
 
 [website]: https://davydkewen.dev/
