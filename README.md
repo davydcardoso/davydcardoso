@@ -1,7 +1,9 @@
 
 ### Hi, I am Davyd Kewen👋
 
-Backend Software Developer 🚀 with experience in creating web and mobile apps with JavaScript / Reactjs / Nodejs / React Native and some other interesting libraries and frameworks.
+Mobile Software Engineer 🚀
+Flutter and React Native
+CEO - Saturn Technology
 
 ## <img width="45" alt="about" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"> More about me
 
@@ -23,7 +25,10 @@ class programmer {
 	<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </code>
 <code>
-	<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+	<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+</code>
+<code>
+	<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 </code>
 <code>
 	<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
@@ -46,9 +51,7 @@ class programmer {
 <code>
 	<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </code>
-<code>
-	<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-</code>
+
 
 
 ## **GitHub Statistics**
