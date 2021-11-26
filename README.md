@@ -1,9 +1,9 @@
 
 ### Hi, I am Davyd Kewen👋
 
-Mobile Software Engineer 🚀
-Flutter and React Native
-CEO - Saturn Technology
+Mobile Software Engineer 🚀<br/>
+Flutter and React Native<br/>
+CEO - Saturn Technology<br/>
 
 ## <img width="45" alt="about" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"> More about me
 
@@ -11,10 +11,10 @@ CEO - Saturn Technology
 
 ```TypeScript
 class programmer {
-  public name = "Davyd Kewen J. Cardoso"
-  public acknowledgements = "BACKEND DEVELOPER"
+  public name = "Davyd Kewen"
+  public acknowledgements = "Mobile Developer"
   public readonly strikingPhrase = "Never Stop Learning"
-  public technologies = ["Node.Js", "TypeScript", "JavaScript", "React Native", "React"]
+  public technologies = ["Node.Js", "Dart", "TypeScript", "JavaScript", "Flutter", "React Native"]
   private static company = "SATURN TECHNOLOGY"
 }
 ```
