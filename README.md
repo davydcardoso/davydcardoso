@@ -1,9 +1,10 @@
 
 ### Hi, I am Davyd Kewen👋
 
-Mobile Software Engineer 🚀<br/>
+Pleno Android Engineer 🚀<br/>
 Flutter and React Native<br/>
 CEO - Saturn Technology<br/>
+Pleno Developer Backend at Sonik Tecnologia https://www.sonik.com.br/ 
 
 ## <img width="45" alt="about" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"> More about me
 
