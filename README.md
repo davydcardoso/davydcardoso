@@ -56,7 +56,7 @@ class programmer {
 
 
 ## **GitHub Statistics**
-
+<div class="row">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=davydcardoso&layout=compact&show_icons=true&theme=radical&line_height=20">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davydcardoso&layout=compact&show_icons=true&theme=radical&line_height=20" />
 </a>
@@ -64,6 +64,7 @@ class programmer {
 <a href="https://github-readme-stats.vercel.app/api?username=davydcardoso&show_icons=true&theme=radical&line_height=20">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davydcardoso&show_icons=true&theme=radical&line_height=20"/>
 </a>
+</div>
 
 [website]: https://davydkewen.dev/
 [instagram]: https://instagram.com/davydkewen
