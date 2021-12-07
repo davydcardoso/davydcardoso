@@ -1,7 +1,7 @@
 
 ### Hi, I am Davyd Kewen👋
 
-Pleno Android Engineer 🚀<br/>
+Software Engineer 🚀<br/>
 Flutter and React Native<br/>
 CEO - Saturn Technology<br/>
 Pleno Developer Backend at Sonik Tecnologia https://www.sonik.com.br/ 
@@ -57,9 +57,6 @@ class programmer {
 
 ## **GitHub Statistics**
 <div class="row">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=davydcardoso&layout=compact&show_icons=true&theme=radical&line_height=20">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davydcardoso&layout=compact&show_icons=true&theme=radical&line_height=20" />
-</a>
 
 <a href="https://github-readme-stats.vercel.app/api?username=davydcardoso&show_icons=true&theme=radical&line_height=20">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davydcardoso&show_icons=true&theme=radical&line_height=20"/>
