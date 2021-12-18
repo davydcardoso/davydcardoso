@@ -3,7 +3,7 @@
 
 Software Engineer 🚀<br/>
 Flutter and React Native<br/>
-CEO - Rocketzapi https:///rocketzapi.com.br<br/>
+CEO - Rocketzapi https://rocketzapi.com.br <br/>
 Pleno Developer Backend at Sonik Tecnologia https://www.sonik.com.br/ 
 
 ## <img width="45" alt="about" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"> More about me
