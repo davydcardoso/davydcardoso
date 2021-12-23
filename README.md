@@ -2,7 +2,8 @@
 ### Hi, I am Davyd Kewen👋
 
 Software Engineer 🚀<br/>
-Flutter and React Native<br/>
+Node.js<br/>
+Flutter<br/>
 CEO - Rocketzapi https://rocketzapi.com.br <br/>
 Pleno Developer Backend at Sonik Tecnologia https://www.sonik.com.br/ 
 
@@ -13,10 +14,10 @@ Pleno Developer Backend at Sonik Tecnologia https://www.sonik.com.br/
 ```TypeScript
 class programmer {
   public name = "Davyd Kewen"
-  public acknowledgements = "Mobile Developer"
+  public acknowledgements = "Backend Developer"
   public readonly strikingPhrase = "Never Stop Learning"
   public technologies = ["Node.Js", "Dart", "TypeScript", "JavaScript", "Flutter", "React Native"]
-  private static company = "SATURN TECHNOLOGY"
+  private static company = "Rocketzapi 🚀"
 }
 ```
 
