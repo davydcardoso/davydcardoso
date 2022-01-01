@@ -16,7 +16,7 @@ class programmer {
   public name = "Davyd Kewen"
   public acknowledgements = "Backend Developer"
   public readonly strikingPhrase = "Never Stop Learning"
-  public technologies = ["Node.Js", "Dart", "TypeScript", "JavaScript", "Flutter", "React Native"]
+  public technologies = ["Node.Js", "TypeScript", "Dart", "JavaScript", "Flutter", "React Native"]
   private static company = "Rocketzapi 🚀"
 }
 ```
@@ -64,7 +64,7 @@ class programmer {
 </a>
 </div>
 
-[website]: https://davydkewen.dev/
+[website]: https://rocketzapi.com.br/
 [instagram]: https://instagram.com/davydkewen
 [linkedin]: https://www.linkedin.com/in/davyd-kewen-66b0121aa/
 <br>
