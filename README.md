@@ -39,6 +39,7 @@ class programmer {
 ## **GitHub Statistics**
 <div class="row">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=davydcardoso&show_icons=true&theme=radical&line_height=20"/>
+	<br/>
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davydcardoso&layout=compact&theme=radical"/>
 </div>
 
