@@ -38,10 +38,8 @@ class programmer {
 
 ## **GitHub Statistics**
 <div class="row">
-
-<a href="https://github-readme-stats.vercel.app/api?username=davydcardoso&show_icons=true&theme=radical&line_height=20">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=davydcardoso&show_icons=true&theme=radical&line_height=20"/>
-</a>
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=davydcardoso&show_icons=true&theme=radical&line_height=20"/>
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davydcardoso&layout=compact&theme=radical"/>
 </div>
 
 [website]: https://rocketzapi.com.br/
