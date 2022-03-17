@@ -2,7 +2,7 @@
 ### Hi, I am Davyd Kewen👋
 
 Software Engineer 🚀<br/>
-Node.js<br/>
+Typescript (JS)<br/>
 Flutter<br/>
 CEO - Rocketzapi https://rocketzapi.com.br <br/>
 Pleno Developer Backend
