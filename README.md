@@ -1,11 +1,11 @@
 
 ### Hi, I am Davyd Kewen👋
 
-Software Engineer 🚀<br/>
+Pleno Mobile Developer 🚀<br/>
 Typescript (JS)<br/>
-Flutter<br/>
+React Native<br/>
 CEO - Rocketzapi https://rocketzapi.com.br <br/>
-Pleno Developer Backend
+
 
 ## <img width="45" alt="about" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"> More about me
 
