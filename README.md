@@ -14,7 +14,7 @@ CEO - Rocketzapi https://rocketzapi.com.br <br/>
 ```TypeScript
 class programmer {
   public name = "Davyd Kewen"
-  public acknowledgements = "Mobile and Backend Developer"
+  public acknowledgements = "Mobile Developer"
   public readonly strikingPhrase = "Never Stop Learning"
   public technologies = ["Node.Js", "TypeScript", "Dart", "JavaScript", "Flutter", "React Native"]
   private static company = "Rocketzapi 🚀"
