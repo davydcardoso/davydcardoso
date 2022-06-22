@@ -4,7 +4,7 @@
 Pleno Mobile Developer 🚀<br/>
 Typescript (JS)<br/>
 React Native<br/>
-CEO - Rocketzapi https://rocketzapi.com.br <br/>
+
 
 
 ## <img width="45" alt="about" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"> More about me
