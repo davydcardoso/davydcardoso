@@ -1,9 +1,9 @@
 
 ### Hi, I am Davyd Kewen👋
 
-Pleno Mobile Developer 🚀<br/>
+Pleno Backend Developer 🚀<br/>
 Typescript (JS)<br/>
-React Native<br/>
+Node.JS<br/>
 
 
 
@@ -14,7 +14,7 @@ React Native<br/>
 ```TypeScript
 class programmer {
   public name = "Davyd Kewen"
-  public acknowledgements = "Mobile Developer"
+  public acknowledgements = "Backend Developer"
   public readonly strikingPhrase = "Never Stop Learning"
   public technologies = ["Node.Js", "TypeScript", "Dart", "JavaScript", "Flutter", "React Native"]
   private static company = "Rocketapps 🚀"
