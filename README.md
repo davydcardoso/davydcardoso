@@ -37,11 +37,6 @@ class programmer {
 
 
 
-## **GitHub Statistics**
-<div class="row">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=davydcardoso&show_icons=true&theme=radical&line_height=20&hide_rank=true"/>
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davydcardoso&layout=compact&theme=radical"/>
-</div>
 
 [website]: https://rocketzapi.com.br/
 [instagram]: https://instagram.com/davydkewen
