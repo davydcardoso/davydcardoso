@@ -17,7 +17,7 @@ class programmer {
   public acknowledgements = "Backend Developer"
   public readonly strikingPhrase = "Never Stop Learning"
   public technologies = ["Node.Js", "TypeScript", "Dart", "JavaScript", "Flutter", "React Native"]
-  private static company = "Rocketapps 🚀"
+  private static company = "Available for Work"
 }
 ```
 
