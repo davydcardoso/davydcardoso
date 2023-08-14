@@ -14,7 +14,7 @@ Node.JS<br/>
 ```TypeScript
 class programmer {
   public name = "Davyd Kewen"
-  public acknowledgements = "Backend Developer"
+  public acknowledgements = "Full Stack Developer"
   public readonly strikingPhrase = "Never Stop Learning"
   public technologies = ["Node.Js", "TypeScript", "Dart", "JavaScript", "Flutter", "React Native"]
   private static company = "Available for Work"
