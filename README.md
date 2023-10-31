@@ -1,10 +1,7 @@
 
 ### Hi, I am Davyd Kewen👋
 
-Pleno Backend Developer 🚀<br/>
-Typescript (JS)<br/>
-Node.JS<br/>
-
+Backend Developer Mid Level 🚀<br/>
 
 
 ## <img width="45" alt="about" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"> More about me
@@ -43,14 +40,11 @@ const [developer, setDeveloper] = useState<Developer>({
 
 
 
-[website]: https://rocketzapi.com.br/
-[instagram]: https://instagram.com/davydkewen
-[linkedin]: https://www.linkedin.com/in/davyd-kewen-66b0121aa/
+
+[linkedin]: https://www.linkedin.com/in/davyd-cardoso-66b0121aa/
 <br>
 
 #### Social networks!
 
-🏡 [website][website] **|** 
-📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
