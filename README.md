@@ -20,9 +20,9 @@ const [developer, setDeveloper] = useState<Developer>({
 	frontEnd: [ 'React.js', 'React Native', 'Nest.js' ],
 	backEnd: [ 'Node.js', 'Java' ],
    },
-   languages: [ 'TypeScript', 'JavaScript' ] ,
+   languages: [ 'TypeScript', 'JavaScript', 'Java' ] ,
    extras: ['HTML', 'CSS', 'Tailwindcss', 'RabbitMQ', 'Apache Kafka'],
-   databases: ['PostgreSQL', 'MongoDB', 'Redis', 'MySQL', 'Sqlite'],
+   databases: ['PostgreSQL', 'MongoDB', 'Redis', 'MySQL', 'Sqlite', 'SQL Server'],
 });
 ```
 
