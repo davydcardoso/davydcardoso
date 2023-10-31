@@ -15,7 +15,7 @@ Node.JS<br/>
 const [developer, setDeveloper] = useState<Developer>({
    name: 'Davyd Cardoso',
    interest: 'BackEnd Developer',
-   random: [ 'I love coffee', 'Aspiring game developer', 'Yes, I'm a dev who loves DDD and clean architecture' ],   
+   random: [ 'I love coffee', 'Aspiring game developer', 'Yes, I`m a dev who loves DDD and clean architecture' ],   
    technologies: {
 	frontEnd: [ 'React.js', 'React Native', 'Nest.js' ],
 	backEnd: [ 'Node.js', 'Java' ],
