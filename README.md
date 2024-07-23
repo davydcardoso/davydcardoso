@@ -38,7 +38,7 @@ const [developer, setDeveloper] = useState<Developer>({
 
 
 
-[linkedin]: https://www.linkedin.com/in/davyd-cardoso-66b0121aa/
+[linkedin]: https://www.linkedin.com/in/davyd-cardoso-4780a0318/
 <br>
 
 #### Social networks!
