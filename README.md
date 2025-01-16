@@ -12,7 +12,7 @@ Backend Developer Mid Level 🚀<br/>
 const [developer, setDeveloper] = useState<Developer>({
    name: 'Davyd Cardoso',
    interest: 'BackEnd Developer',
-   random: [ 'Java Developer' | 'NestJ' | 'TDD' | 'Clean Architecture Enthusiast' ],   
+   random: [ 'Java Developer', 'NestJ', 'TDD', 'Clean Architecture Enthusiast' ],   
    technologies: {
 	backEnd: [ 'Nest.js', 'Java' ],
    },
